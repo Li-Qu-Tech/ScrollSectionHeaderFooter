@@ -2,7 +2,7 @@
 //  ScrollSectionHeaderFooterUITests.m
 //  ScrollSectionHeaderFooterUITests
 //
-//  Created by hongtu on 2020/9/23.
+//  Created by xx on 2020/9/23.
 //
 
 #import <XCTest/XCTest.h>

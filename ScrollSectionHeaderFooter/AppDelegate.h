@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  ScrollSectionHeaderFooter
 //
-//  Created by hongtu on 2020/9/23.
+//  Created by xx on 2020/9/23.
 //
 
 #import <UIKit/UIKit.h>
